@@ -23,7 +23,7 @@
 <p align="left" >
   * <a>yarn install</a></br>
   * <a>yarn start</a></br></br>
-  * <a><strong>Obs: Cadastre um nível antes de cadastrar o desenvolvedor</strong></a></br>
+  * <a><strong>Obs: Cadastre um nível antes de cadastrar o desenvolvedor.</strong></a></br>
 </p>
 
 <h3><strong>Layout</strong></h3>
